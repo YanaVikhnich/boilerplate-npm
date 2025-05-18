@@ -3,6 +3,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"version": "1.2.0",
 	"author" : "Yana Vikhnich",
 	"keywords": [ "descriptive", "related", "words" , "freecodecamp"],
 	"main": "server.js",
