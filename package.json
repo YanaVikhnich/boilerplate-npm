@@ -4,6 +4,7 @@
 		"express": "^4.14.0"
 	},
 	"author" : "Yana Vikhnich",
+	"keywords": [ "descriptive", "related", "words" , "freecodecamp"],
 	"main": "server.js",
 	"description": "A project that does something awesome",
 	"scripts": {
